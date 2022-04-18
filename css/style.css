@@ -60,7 +60,8 @@ div#image {
   margin: 1rem;
 }
 div#descritiva{
-    display: flexbox;
+  display: flexbox;
+  width: 300px;
   padding: 1rem;
   border: 10px;
   border-color: rgb(0, 0, 0);
