@@ -58,6 +58,7 @@ div#image {
   border: 10px;
   border-color: rgb(0, 0, 0);
   margin: 1rem;
+  max-width: 100%:
 }
 div#descritiva{
   display: flexbox;
